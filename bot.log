@@ -1,0 +1,50 @@
+------------------------------------------------------------
+2026-06-25 17:59:43,750 [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-06-25 17:59:43,751 [WARNING] discord.client: davey is not installed, voice will NOT be supported
+2026-06-25 17:59:43,754 [INFO] AntiRaid: 已載入模組：cogs.antiraid
+2026-06-25 17:59:43,755 [INFO] AntiRaid: 已載入模組：cogs.admin
+2026-06-25 17:59:43,756 [INFO] AntiRaid: 已載入模組：cogs.logger
+2026-06-25 17:59:43,756 [INFO] discord.client: logging in using static token
+2026-06-25 17:59:45,340 [INFO] discord.gateway: Shard ID None has connected to Gateway (Session ID: 50983bd8145a75534d6fe3537adaf0bf).
+2026-06-25 17:59:47,343 [INFO] AntiRaid: 機器人已上線：antiraid#1342 (ID: 1519553951748460685)
+------------------------------------------------------------
+2026-06-25 18:02:54,886 [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-06-25 18:02:54,886 [WARNING] discord.client: davey is not installed, voice will NOT be supported
+2026-06-25 18:02:54,890 [INFO] AntiRaid: 已載入模組：cogs.antiraid
+2026-06-25 18:02:54,891 [INFO] AntiRaid: 已載入模組：cogs.admin
+2026-06-25 18:02:54,892 [INFO] AntiRaid: 已載入模組：cogs.logger
+2026-06-25 18:02:54,892 [INFO] discord.client: logging in using static token
+2026-06-25 18:02:56,321 [INFO] discord.gateway: Shard ID None has connected to Gateway (Session ID: 01afb6523125b6c638b7a3661ae3edb0).
+2026-06-25 18:02:58,344 [INFO] AntiRaid: 機器人已上線：antiraid#1342 (ID: 1519553951748460685)
+2026-06-25 18:02:58,823 [INFO] AntiRaid: 斜線指令已同步
+------------------------------------------------------------
+2026-06-25 20:25:46,640 [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-06-25 20:25:46,640 [WARNING] discord.client: davey is not installed, voice will NOT be supported
+2026-06-25 20:25:46,644 [INFO] AntiRaid: 已載入模組：cogs.antiraid
+2026-06-25 20:25:46,646 [INFO] AntiRaid: 已載入模組：cogs.admin
+2026-06-25 20:25:46,647 [INFO] AntiRaid: 已載入模組：cogs.logger
+2026-06-25 20:25:46,647 [INFO] discord.client: logging in using static token
+2026-06-25 20:25:48,156 [INFO] discord.gateway: Shard ID None has connected to Gateway (Session ID: 6782d565f40f92ee86420309b70f3cb1).
+2026-06-25 20:25:50,175 [INFO] AntiRaid: 機器人已上線：Antiraid#1342 (ID: 1519553951748460685)
+2026-06-25 20:25:50,539 [INFO] AntiRaid: 斜線指令已同步
+2026-06-25 20:26:09,640 [ERROR] discord.app_commands.tree: Ignoring exception in command 'status'
+Traceback (most recent call last):
+  File "E:\_Python project\antiraid-bot\.venv\Lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "E:\_Python project\antiraid-bot\.venv\Lib\site-packages\discord\app_commands\commands.py", line 881, in _invoke_with_namespace
+    raise CheckFailure(f'The check functions for command {self.name!r} failed.')
+discord.app_commands.errors.CheckFailure: The check functions for command 'status' failed.
+2026-06-25 20:26:17,104 [ERROR] discord.app_commands.tree: Ignoring exception in command 'add_role'
+Traceback (most recent call last):
+  File "E:\_Python project\antiraid-bot\.venv\Lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "E:\_Python project\antiraid-bot\.venv\Lib\site-packages\discord\app_commands\commands.py", line 881, in _invoke_with_namespace
+    raise CheckFailure(f'The check functions for command {self.name!r} failed.')
+discord.app_commands.errors.CheckFailure: The check functions for command 'add_role' failed.
+2026-06-25 20:26:24,328 [ERROR] discord.app_commands.tree: Ignoring exception in command 'add_role'
+Traceback (most recent call last):
+  File "E:\_Python project\antiraid-bot\.venv\Lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "E:\_Python project\antiraid-bot\.venv\Lib\site-packages\discord\app_commands\commands.py", line 881, in _invoke_with_namespace
+    raise CheckFailure(f'The check functions for command {self.name!r} failed.')
+discord.app_commands.errors.CheckFailure: The check functions for command 'add_role' failed.
