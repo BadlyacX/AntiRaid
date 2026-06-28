@@ -17,8 +17,8 @@ pip install -r requirements.txt
 ```
 
 ### 3. 在 Discord Developer Portal 開啟 Privileged Intents
-- `SERVER MEMBERS INTENT` ✅
-- `MESSAGE CONTENT INTENT` ✅
+- `SERVER MEMBERS INTENT` 
+- `MESSAGE CONTENT INTENT` 
 
 ### 4. 機器人所需權限
 - `Kick Members`
